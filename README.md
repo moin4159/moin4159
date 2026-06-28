@@ -61,5 +61,5 @@
 ---
 
 ### 👋 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/moin-sayyad-mern-fullstackdev/](https://key-link-placeholder)
+* 💼 **LinkedIn:** [linkedin.com/in/moin-sayyad-mern-fullstackdev](https://www.linkedin.com/in/moin-sayyad-mern-fullstackdev/)
 * 📧 **Email:** [sayyadmoin81@gmail.com](mailto:sayyadmoin81@gmail.com)
